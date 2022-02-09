@@ -1,19 +1,17 @@
 ---
-title: "Tobi Burns"
+title: "Nick Matzelle"
 image: "Pictures/Nick.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/nicholas-matzelle-949407188/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/nickmatzelle.github.io"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "npm3@geneseo.edu"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a senior at SUNY GENESEO pursuing an Accounting major with minors in Finance and Data Analytics 
