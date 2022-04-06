@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/nickmatzelle.github.io"
+    url: "https://github.com/nickmatzelle/nickmatzelle.github.io"
   - label: Email
     url: "npm3@geneseo.edu"
 output:

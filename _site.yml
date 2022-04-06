@@ -7,3 +7,5 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "DANL 310 Project"
+      href: eg.html
