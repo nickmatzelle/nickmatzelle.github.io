@@ -9,3 +9,8 @@ navbar:
       href: about.html
     - text: "DANL 310 Project"
       href: eg.html
+    - text: "HW & Exams"
+      href: HW---Exams.html
+output:
+  html_document:
+    theme: cosmo
