@@ -112,7 +112,4 @@ fig_climate <- ggplotly(x, useBytes = F) %>%
                 xanchor='right', yanchor='auto', xshift=0, yshift=0))
 
 fig_climate
-
-htmlwidgets::saveWidget(fig_climate, file = "test.html")
-
 ```
