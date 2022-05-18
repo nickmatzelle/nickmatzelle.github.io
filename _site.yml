@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "DANL 310 Project"
-      href: eg.html
+      href: https://seanb500.github.io/project.html
     - text: "HW & Exams"
       href: HW---Exams.html
     - text: "SHINY HW"

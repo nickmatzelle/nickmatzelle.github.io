@@ -98,18 +98,19 @@ x <- x2 + labs(fill = "Percent Belief", title = "U.S. Climate Opinion, 2021: Glo
                                          color = "grey80" ))+
   guides(fill = guide_colourbar(direction = "horizontal", barwidth = 25, title.vjust = -1))
 
-
-fig_climate <- ggplotly(x, useBytes = F) %>% 
-  layout(title = list(text = paste0("U.S. Climate Opinion, 2021",
-                                    '<br>',
-                                    '<sup>',
-                                    'Global warming is mostly caused by human activities',
-                                    '</sup>')),
-         annotations = 
-           list(x = 1, y = -0.15, 
-                text = "Sources: Yale Program on Climate Change Communication\n(https://climatecommunication.yale.edu/visualizations-data/ycom-us/)", 
-                showarrow = F, xref='paper', yref='paper', 
-                xanchor='right', yanchor='auto', xshift=0, yshift=0))
-
-fig_climate
+x
+# 
+# fig_climate <- ggplotly(x, useBytes = F) %>% 
+#   layout(title = list(text = paste0("U.S. Climate Opinion, 2021",
+#                                     '<br>',
+#                                     '<sup>',
+#                                     'Global warming is mostly caused by human activities',
+#                                     '</sup>')),
+#          annotations = 
+#            list(x = 1, y = -0.15, 
+#                 text = "Sources: Yale Program on Climate Change Communication\n(https://climatecommunication.yale.edu/visualizations-data/ycom-us/)", 
+#                 showarrow = F, xref='paper', yref='paper', 
+#                 xanchor='right', yanchor='auto', xshift=0, yshift=0))
+# 
+# fig_climate
 ```
