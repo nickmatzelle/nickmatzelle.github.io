@@ -11,6 +11,8 @@ navbar:
       href: eg.html
     - text: "HW & Exams"
       href: HW---Exams.html
+    - text: "SHINY HW"
+      href: https://nickmatzelle.shinyapps.io/shinyhw/
     - text: "Resume"
       href: Pictures\Resume_Matzelle_Nicholas.pdf
 output:
